@@ -1,0 +1,46 @@
+[33mcommit 19b29ec463762f59bc8ae6d1c8bac7a1dfb96fe5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Axel Moncada <tatomoncada@gmail.com>
+Date:   Mon Jul 27 22:08:05 2020 -0500
+
+    commit al master del blog post en su version mas resiente
+
+ blogpost.html   |  8 [32m++++++[m[31m--[m
+ css/estilos.css | 19 [32m+++++++++++++++++[m[31m--[m
+ 2 files changed, 23 insertions(+), 4 deletions(-)
+
+[33mcommit d99cea598e77a3f9ccf2c497f60f016d0c4826df[m
+Author: Axel Moncada <tatomoncada@gmail.com>
+Date:   Sat Jul 25 23:56:54 2020 -0500
+
+    y obra maestra
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 3c29c91a4d4603b5c8ad5896f86f46ac885fca4d[m
+Author: Axel Moncada <tatomoncada@gmail.com>
+Date:   Sat Jul 25 23:56:23 2020 -0500
+
+    cambio de vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit f1d2fb5d797324595654993c042d1ba26f9764a8[m
+Author: Axel Moncada <tatomoncada@gmail.com>
+Date:   Sat Jul 25 23:55:23 2020 -0500
+
+    Arranco mi proyecto real html y css
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  7 [32m+++++++[m
+ 2 files changed, 17 insertions(+)
+
+[33mcommit 33fb9cd3ebc92f06e911904cb0741b9cc911d48f[m
+Author: Axel Moncada <tatomoncada@gmail.com>
+Date:   Sat Jul 25 23:14:01 2020 -0500
+
+    Este es el primero commit del archivo
+
+ historia.txt | 8 [32m++++++++[m
+ 1 file changed, 8 insertions(+)
