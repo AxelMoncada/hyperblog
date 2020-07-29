@@ -3,13 +3,15 @@ body
         text-align: center;
         font-family: "arial";
         color: #333333;
-<<<<<<< HEAD
+
         font-size: 20px;
         background: #333333;
     
-=======
-           
->>>>>>> footer
+
+        font-size: 20px;
+        background: #333333;
+    
+
         margin: 0 ;
         padding: 0;
         ;
@@ -33,24 +35,23 @@ body
     text-align: left;
    
     margin: 0 auto;
- 
 
 } 
-#container #post
-{
-    font-size: 10px;
- 
-}
-#tagline {
-    font-size: 10px;
-}
 #container h1 {
     font-size: 20px;
 }
+#post {
+    background: white;
+    padding: 1em;
+}
+#tagline{
+    font-size: 16px;
+    font-weight: 200;
+}
 #footer{
-    background: #333333;
+    background: #868686;
     font-size: 15px;
-    padding: 0px;
+    padding: 1px;
     color: white;
     text-align: center;
 }
