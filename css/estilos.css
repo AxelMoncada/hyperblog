@@ -3,8 +3,7 @@ body
         text-align: center;
         font-family: "arial";
         color: #333333;
-        font-size: 20px;
-    
+           
         margin: 0 ;
         padding: 0;
         ;
@@ -24,8 +23,24 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+ 
 
 } 
+#container #post
+{
+    font-size: 10px;
+ 
+}
+#tagline {
+    font-size: 10px;
+}
 #container h1 {
     font-size: 20px;
+}
+#footer{
+    background: #333333;
+    font-size: 15px;
+    padding: 0px;
+    color: white;
+    text-align: center;
 }
