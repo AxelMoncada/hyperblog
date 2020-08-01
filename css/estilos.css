@@ -48,8 +48,7 @@ body
     color: white;
     text-align: center;
 }
-#imagen{
+.imagen{
     width: 200px;
-    align-content: center;
-    margin: 0 auto;
-    padding: 0 auto;
+    display: block;
+    margin: auto;
